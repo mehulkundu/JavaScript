@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "got": "^11.8.2",
+    "got": "^12.5.3",
     "moment": "^2.29.1",
     "nodemailer": "^6.6.0"
   }
